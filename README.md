@@ -1,6 +1,6 @@
 ## Self Driving 
 ### Problem Statement: 
-#### Given frames of video we should predict the steering angle in proper direction
+#### Given frames of images for video we should predict the steering angle in proper direction
 #### Based on Research paper : [PAPER](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
 
 ###  Dataset:
