@@ -16,3 +16,6 @@ $ python train.py
 $ python drive_car(run).py
 ``` 
 #### if you want to see the results you can directly run drive_car(run).py without training,which uses testing_model which has been trained
+
+### References and Credits:
+#### This implementation took inspiration from Sully chen's work 
